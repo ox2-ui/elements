@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Image
+  customStyle={
+    Object {
+      "width": "250px",
+    }
+  }
+  value="http://imgur.com/7YG1YAU.png"
+>
+  <img
+    src="http://imgur.com/7YG1YAU.png"
+    style={
+      Object {
+        "display": "block",
+        "width": "250px",
+      }
+    }
+  />
+</Image>
+`;

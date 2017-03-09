@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Text
+  customStyle={
+    Object {
+      "fontSize": "25px",
+    }
+  }
+  value="My text"
+>
+  <div
+    style={
+      Object {
+        "fontSize": "25px",
+      }
+    }
+  >
+    My text
+  </div>
+</Text>
+`;

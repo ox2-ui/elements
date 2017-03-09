@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Table
+  customStyle={
+    Object {
+      "padding": "30px",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "display": "table",
+        "padding": "30px",
+      }
+    }
+  >
+    <div>
+      Child
+    </div>
+  </div>
+</Table>
+`;
